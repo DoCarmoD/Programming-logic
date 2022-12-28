@@ -1,4 +1,5 @@
 #Conversão de Medidas
+# Conversion of Measurements
 
 distancia = float(input('Digite uma distância em metros: '))
 km = distancia / 1000
