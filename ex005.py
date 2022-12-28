@@ -1,4 +1,5 @@
 # Pergunte ao usuário um valor e mostre o dobro, triplo e raiz quadrada desse valor 
+# Ask the user for a value and show the double, triple and square root of that value
 
 n = float(input("Digite um valor: "))
 dobro = n * 2
